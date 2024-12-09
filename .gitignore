@@ -1,4 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-chromedriver/
+chromedriver/*.exe
+chromedriver/chromedriver
+!chromedriver/placechromedriverhere.txt
