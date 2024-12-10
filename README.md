@@ -1,6 +1,6 @@
 # selenium-cookie-lifetime
 
-This project uses Selenium to interact with [Bing](https://www.bing.com/) and retrieve the lifetime of cookies set by the website.
+This ~~project~~ script uses Selenium to interact with [Bing](https://www.bing.com/) and retrieve the lifetime of cookies set by the website.
 
 
 ## Installation Guide
