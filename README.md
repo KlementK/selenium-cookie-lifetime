@@ -40,8 +40,7 @@ pip install -r requirements.txt
 
 
 ### **5. Add ChromeDriver**
-1. Download ChromeDriver matching your Chrome version from [ChromeDriver Downloads](https://developer.chrome.com/docs/chromedriver/downloads).
-2. Move the `chromedriver` executable to the `chromedriver/` folder.
+Move the `chromedriver` executable to the `chromedriver/` folder.
 
 
 ### **6. Run the Script**
