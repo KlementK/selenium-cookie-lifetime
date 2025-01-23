@@ -39,11 +39,7 @@ pip install -r requirements.txt
 ```
 
 
-### **5. Add ChromeDriver**
-Move the `chromedriver` executable to the `chromedriver/` folder.
-
-
-### **6. Run the Script**
+### **5. Run the Script**
 Run the script to retrieve and display cookie lifetime details:
 ```bash
 python get_cookie_lifetime.py
