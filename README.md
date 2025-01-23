@@ -47,6 +47,7 @@ Run the script to retrieve and display cookie lifetime details:
 python get_cookie_lifetime.py
 ```
 
+---
 
 ## License
 This project is licensed under the MIT License.
