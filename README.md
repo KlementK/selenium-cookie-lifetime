@@ -2,7 +2,6 @@
 
 This ~~project~~ script uses Selenium to interact with [Bing](https://www.bing.com/) and retrieve the lifetime of cookies set by the website.
 
-
 ## Installation Guide
 
 Follow these steps to set up the project on your local machine:
@@ -19,6 +18,7 @@ Follow these steps to set up the project on your local machine:
 ### **2. Clone the Repository**
 Clone this repository to your local machine.
 
+---
 
 ### **3. Set Up a Virtual Environment**
 1. Create a virtual environment:
@@ -31,6 +31,7 @@ Clone this repository to your local machine.
      venv\Scripts\activate
      ```
 
+---
 
 ### **4. Install Dependencies**
 Install the required Python packages using the `requirements.txt` file:
@@ -38,6 +39,7 @@ Install the required Python packages using the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
+---
 
 ### **5. Run the Script**
 Run the script to retrieve and display cookie lifetime details:
